@@ -1,0 +1,12 @@
+body{
+    width: 1200px;
+    margin: auto;
+}
+
+input{
+    margin-bottom: 1rem;
+}
+
+.oculto{
+    display: none;
+}
